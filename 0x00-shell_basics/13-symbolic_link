@@ -1,2 +1,2 @@
 #!/bin/bash
-mklink __ls__ /bin/ls
+mklink /D __ls__ /bin/ls
